@@ -1,2 +1,2 @@
-serenity-bdd-test
-Serenity + Cucumber-JVM + Selenium WebDriver from scratch
+SFTestPack
+Use Serenity BDD with Cucumber
