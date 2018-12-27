@@ -1,2 +1,2 @@
-# SFTestPack
-Generic Test Pack BDD project serenity enabled
+serenity-bdd-test
+Serenity + Cucumber-JVM + Selenium WebDriver from scratch
